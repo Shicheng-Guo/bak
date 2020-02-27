@@ -1,0 +1,66 @@
+Variation ID	Chromosome	Position	Overlapped Gene	Type	Annotation	Nearest Upstream Gene	Type of Nearest Upstream Gene	Distance to Nearest Upstream Gene	Nearest Downstream Gene	Type of Nearest Downstream Gene	Distance to Nearest Downstream Gene
+rs753863247	chr9	129728127	RALGPS1	protein_coding	non-coding,coding *nonsyn,coding nonsyn	None	None	None	None	None	None
+rs755182642	chr9	129728136	RALGPS1	protein_coding	non-coding,coding *nonsyn,coding nonsyn	None	None	None	None	None	None
+rs1223108942	chr9	129728169	RALGPS1	protein_coding	non-coding,coding *nonsyn,coding nonsyn	None	None	None	None	None	None
+rs1327077064	chr9	129728200	RALGPS1	protein_coding	non-coding,coding *nonsyn,coding nonsyn	None	None	None	None	None	None
+rs1263289903	chr9	129739999	RALGPS1	protein_coding	non-coding,coding *nonsyn,coding nonsyn	None	None	None	None	None	None
+rs199960808	chr9	129740008	RALGPS1	protein_coding	non-coding,coding *nonsyn,coding nonsyn	None	None	None	None	None	None
+rs375139774	chr9	129740020	RALGPS1	protein_coding	non-coding,coding *nonsyn,coding nonsyn	None	None	None	None	None	None
+rs777380945	chr9	129796723	RALGPS1	protein_coding	non-coding,coding *nonsyn,coding nonsyn	None	None	None	None	None	None
+rs376156148	chr9	129796771	RALGPS1	protein_coding	non-coding,coding *nonsyn,coding nonsyn	None	None	None	None	None	None
+rs762196220	chr9	129796779	RALGPS1	protein_coding	non-coding,coding *nonsyn,coding nonsyn	None	None	None	None	None	None
+rs1427976796	chr9	129812325	RALGPS1	protein_coding	coding nonsyn,non-coding,5upstream,intronic	None	None	None	None	None	None
+rs1312741281	chr9	129812347	RALGPS1	protein_coding	coding nonsyn,non-coding,intronic	None	None	None	None	None	None
+rs752613882	chr9	129815193	RALGPS1	protein_coding	non-coding,coding *nonsyn,coding nonsyn	None	None	None	None	None	None
+rs752613882	chr9	129815193	RALGPS1	protein_coding	non-coding,coding *nonsyn,coding nonsyn	None	None	None	None	None	None
+rs1204075868	chr9	129831581	RALGPS1	protein_coding	non-coding,coding *nonsyn,coding nonsyn	None	None	None	None	None	None
+rs1204075868	chr9	129831581	RALGPS1	protein_coding	non-coding,coding *nonsyn,coding nonsyn	None	None	None	None	None	None
+rs188642356	chr9	129831582	RALGPS1	protein_coding	coding nonsyn,non-coding,coding *nonsyn	None	None	None	None	None	None
+rs1188039171	chr9	129831626	RALGPS1	protein_coding	non-coding,coding *nonsyn,coding nonsyn	None	None	None	None	None	None
+rs1188039171	chr9	129831626	RALGPS1	protein_coding	non-coding,coding *nonsyn,coding nonsyn	None	None	None	None	None	None
+rs746445600	chr9	129831630	RALGPS1	protein_coding	non-coding,coding *nonsyn,coding nonsyn	None	None	None	None	None	None
+rs746445600	chr9	129831630	RALGPS1	protein_coding	non-coding,coding *nonsyn,coding nonsyn	None	None	None	None	None	None
+rs764280405	chr9	129928406	RALGPS1	protein_coding	coding nonsyn	None	None	None	None	None	None
+rs751839755	chr9	129928411	RALGPS1	protein_coding	coding nonsyn	None	None	None	None	None	None
+rs1470007475	chr9	129928417	RALGPS1	protein_coding	coding nonsyn	None	None	None	None	None	None
+rs1441217010	chr9	129928474	RALGPS1	protein_coding	coding nonsyn	None	None	None	None	None	None
+rs746597242	chr9	129931032	RALGPS1	protein_coding	coding nonsyn	None	None	None	None	None	None
+rs779836653	chr9	129936996	RALGPS1	protein_coding	coding nonsyn	None	None	None	None	None	None
+rs768611508	chr9	129937010	RALGPS1	protein_coding	coding nonsyn	None	None	None	None	None	None
+rs376980807	chr9	129957405	RALGPS1	protein_coding	coding nonsyn	None	None	None	None	None	None
+rs763986402	chr9	129957468	RALGPS1	protein_coding	coding nonsyn	None	None	None	None	None	None
+rs767662666	chr9	129957495	RALGPS1	protein_coding	coding nonsyn	None	None	None	None	None	None
+rs1167226192	chr9	129958814	RALGPS1	protein_coding	coding nonsyn,intronic	None	None	None	None	None	None
+rs1350667174	chr9	129958817	RALGPS1	protein_coding	coding nonsyn,intronic	None	None	None	None	None	None
+rs779639127	chr9	129958823	RALGPS1	protein_coding	coding nonsyn,intronic	None	None	None	None	None	None
+rs748911357	chr9	129958829	RALGPS1	protein_coding	coding nonsyn,intronic	None	None	None	None	None	None
+rs1358734512	chr9	129973030	RALGPS1	protein_coding	coding nonsyn,non-coding,5upstream,intronic	None	None	None	None	None	None
+rs755963750	chr9	129974504	RALGPS1	protein_coding	non-coding,5upstream,coding nonsyn	None	None	None	None	None	None
+rs201112223	chr9	129974943	RALGPS1	protein_coding	5upstream,non-coding,coding nonsyn	None	None	None	None	None	None
+rs201112223	chr9	129974943	RALGPS1	protein_coding	5upstream,non-coding,coding nonsyn	None	None	None	None	None	None
+rs1032269388	chr9	129974951	RALGPS1	protein_coding	non-coding,5upstream,coding nonsyn	None	None	None	None	None	None
+rs1032269388	chr9	129974951	RALGPS1	protein_coding	non-coding,5upstream,coding nonsyn	None	None	None	None	None	None
+rs1032269388	chr9	129974951	RALGPS1	protein_coding	non-coding,5upstream,coding nonsyn	None	None	None	None	None	None
+rs776124423	chr9	129974978	RALGPS1	protein_coding	non-coding,coding nonsyn	None	None	None	None	None	None
+rs776124423	chr9	129974978	RALGPS1	protein_coding	non-coding,coding nonsyn	None	None	None	None	None	None
+rs776124423	chr9	129974978	RALGPS1	protein_coding	non-coding,coding nonsyn	None	None	None	None	None	None
+rs749075271	chr9	129974979	RALGPS1	protein_coding	non-coding,coding nonsyn	None	None	None	None	None	None
+rs1280727618	chr9	129975260	RALGPS1	protein_coding	3downstream,non-coding,coding nonsyn	None	None	None	None	None	None
+rs1299070016	chr9	129975280	RALGPS1	protein_coding	3downstream,non-coding,coding nonsyn	None	None	None	None	None	None
+rs1299070016	chr9	129975280	RALGPS1	protein_coding	3downstream,non-coding,coding nonsyn	None	None	None	None	None	None
+rs1299070016	chr9	129975280	RALGPS1	protein_coding	3downstream,non-coding,coding nonsyn	None	None	None	None	None	None
+rs1299070016	chr9	129975280	RALGPS1	protein_coding	3downstream,non-coding,coding nonsyn	None	None	None	None	None	None
+rs751618566	chr9	129977043	RALGPS1	protein_coding	3downstream,non-coding,coding nonsyn	None	None	None	None	None	None
+rs751618566	chr9	129977043	RP13-225O21.2	antisense	non-coding intronic	None	None	None	None	None	None
+rs751618566	chr9	129977043	RALGPS1	protein_coding	3downstream,non-coding,coding nonsyn	None	None	None	None	None	None
+rs751618566	chr9	129977043	RP13-225O21.2	antisense	non-coding intronic	None	None	None	None	None	None
+rs751618566	chr9	129977043	RALGPS1	protein_coding	3downstream,non-coding,coding nonsyn	None	None	None	None	None	None
+rs751618566	chr9	129977043	RP13-225O21.2	antisense	non-coding intronic	None	None	None	None	None	None
+rs767644899	chr9	129977096	RALGPS1	protein_coding	3downstream,non-coding,coding nonsyn	None	None	None	None	None	None
+rs767644899	chr9	129977096	RP13-225O21.2	antisense	non-coding intronic	None	None	None	None	None	None
+rs1263074398	chr9	129977113	RALGPS1	protein_coding	3downstream,non-coding,coding nonsyn	None	None	None	None	None	None
+rs1263074398	chr9	129977113	RP13-225O21.2	antisense	non-coding intronic	None	None	None	None	None	None
+rs1263074398	chr9	129977113	RALGPS1	protein_coding	3downstream,non-coding,coding nonsyn	None	None	None	None	None	None
+rs1263074398	chr9	129977113	RP13-225O21.2	antisense	non-coding intronic	None	None	None	None	None	None
+rs1445696310	chr9	129977117	RALGPS1	protein_coding	3downstream,non-coding,coding nonsyn	None	None	None	None	None	None
+rs1445696310	chr9	129977117	RP13-225O21.2	antisense	non-coding intronic	None	None	None	None	None	None

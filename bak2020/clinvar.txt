@@ -1,0 +1,1 @@
+Variation ID	Chromosome	Position	Variation	Type	Clinical Significance	Phenotypes

@@ -1,0 +1,24 @@
+{
+  "name": "Guotesttest",
+  "vmSize": "standard_d64s_v3",
+  "maxTasksPerNode": 1,
+  "poolSize": {
+    "dedicatedNodes": {
+      "min": 0,
+      "max": 0
+    },
+    "lowPriorityNodes": {
+      "min": 5,
+      "max": 10
+    },
+    "autoscaleFormula": "QUEUE"
+  },
+  "containerImage": "rocker/tidyverse:latest",
+  "rPackages": {
+    "cran": [],
+    "github": [],
+    "bioconductor": []
+  },
+  "commandLine": [],
+  "subnetId": ""
+}
